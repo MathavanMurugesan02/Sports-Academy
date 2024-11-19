@@ -1,0 +1,258 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: cursive;
+}
+
+.top-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: indigo;
+    padding: 15px;
+}
+
+.contact ol .social-media {
+    margin-right: 20px;
+}
+
+.contact ol .social-media i {
+    margin-right: 5px;
+}
+
+.contact ol li {
+    list-style-type: none;
+    display: inline-block;
+}
+
+.contact ol li a {
+    margin-right: 10px;
+    text-decoration: none;
+    color: antiquewhite;
+}
+.contact ol li i {
+    color: white;
+    margin-right: 3px;
+}
+
+.buttons ol li {
+    list-style-type: none;
+    display: inline-block;
+}
+
+.buttons ol li a {
+    color: antiquewhite;
+    margin-right: 10px;
+    text-decoration: none;
+}
+.buttons ol li i {
+    color: white;
+    margin-right: 3px;
+}
+
+.navigation {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(38, 60, 83);
+    padding: 15px;
+}
+
+.left-menus ol li {
+    list-style-type: none;
+    display: inline-block;
+}
+
+.left-menus ol li a {
+    margin-right: 10px;
+    text-decoration: none;
+    color: antiquewhite;
+}
+
+.title h1 {
+    font-size: 35px;
+    color: antiquewhite;
+}
+
+.right-menus ol li {
+    list-style-type: none;
+    display: inline-block;
+}
+
+.right-menus ol li a {
+    color: antiquewhite;
+    margin-right: 10px;
+    text-decoration: none;
+}
+
+.image {
+    background-image: url('./images/all\ sports.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    position: relative;
+}
+
+.image-text {
+    position: absolute;
+    top: 10px;
+    transform: translate(60px, 90px);
+    font-family: system-ui;
+}
+
+.image-text h3 {
+    font-size: 20px;
+    text-align: center;
+}
+
+.image-text h1 {
+    margin-top: 5px;
+    margin-bottom: 15px;
+}
+
+.image-text button {
+    padding: 10px;
+    width: 45%;
+    background-color: indigo;
+    color: #fff;
+    border-radius: 15px;
+    display: block;
+    margin: 0px auto;
+}
+
+.sports {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.sub-heading h1 {
+    text-align: center;
+    margin: 30px 0px;
+    font-family: cursive;
+    font-size: xx-large;
+}
+
+.sports img {
+    width: 260px;
+    height: 315px;
+    border-radius: 10%;
+}
+
+.coach-text h3 {
+    text-align: center;
+    font-family: sans-serif;
+    margin: 10px 0px;
+}
+
+.coach-text p {
+    text-align: center;
+    width: 260px;
+    line-height: 1.5;
+    font-family: system-ui;
+}
+
+.achieve {
+    margin: 30px 0px;
+}
+
+.achieve {
+    background-image: url('./images/cricket-image.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    position: relative;
+}
+
+.achieve-text {
+    position: absolute;
+    top: 30%;
+    transform: translate(25%, 10%);
+}
+
+.achieve-text h1 {
+    font-size: 50px;
+    font-family: system-ui;
+    color: #fff;
+}
+
+.gallery-images {
+    display: flex;
+    justify-content: space-evenly;
+}
+mathava9363247442
+.gall-img img {
+    width: 400px;
+    height: 280px;
+    border-radius: 20px;
+}
+
+.mine-videos {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.sub-video video {
+    width: 510px;
+    height: 260px;
+    margin-bottom: 40px;
+}
+
+.testimonials {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.test-img img {
+    margin: 40px;
+    border-radius: 20px;
+}
+
+.test-text h1 {
+    font-family: system-ui;
+}
+
+.use-text {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 30px;
+    padding: 20px;
+    background-color: black;
+    color: #fff;
+    align-items: start;
+}
+
+.footer-bottom h4 {
+    font-family: system-ui;
+    margin-bottom: 10px;
+    font-size: 18px;
+}
+
+.footer-bottom ul li {
+    font-family: system-ui;
+    list-style-type: none;
+    line-height: 1.8;
+    font-size: 14px;
+}
+
+.footer-bottom ul li i {
+    margin-right: 5px;
+}
+
+.footer-bottom i {
+    margin-right: 10px;
+}
+
+.footer-bottom p {
+    font-family: system-ui;
+    line-height: 1.5;
+}
+
+.language h5 {
+    padding: 5px;
+    background-color: darkblue;
+    color: #fff;
+}
+
+
+
