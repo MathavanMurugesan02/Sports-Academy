@@ -22,7 +22,7 @@
 
 .contact ol li {
     list-style-type: none;
-    display: inline-block;
+    display: inline;
 }
 
 .contact ol li a {
@@ -179,7 +179,7 @@
     display: flex;
     justify-content: space-evenly;
 }
-mathava9363247442
+
 .gall-img img {
     width: 400px;
     height: 280px;
